@@ -97,6 +97,7 @@ figcaption {
   height: 0px;
   line-height: 0px;
 }
+
 [class*="col-"] {
   margin-left: 2%;
 }
