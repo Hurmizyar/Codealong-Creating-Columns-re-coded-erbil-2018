@@ -89,6 +89,7 @@ figcaption {
   float:left;
   background-color: #ccc;
 }
+.clearfix
 [class*="col-"] {
   margin-left: 2%;
 }
