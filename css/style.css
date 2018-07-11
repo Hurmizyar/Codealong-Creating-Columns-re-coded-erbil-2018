@@ -90,7 +90,8 @@ figcaption {
   background-color: #ccc;
 }
 .clearfix:after{
-  content: "."
+  content: ".";
+  display: 
 }
 [class*="col-"] {
   margin-left: 2%;
