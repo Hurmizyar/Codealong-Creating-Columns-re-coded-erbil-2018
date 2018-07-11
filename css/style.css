@@ -91,7 +91,8 @@ figcaption {
 }
 .clearfix:after{
   content: ".";
-  display: 
+  display: block;
+  
 }
 [class*="col-"] {
   margin-left: 2%;
