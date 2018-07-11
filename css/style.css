@@ -89,3 +89,4 @@ figcaption {
   float:left;
   background-color: #ccc;
 }
+[class*=col-]
