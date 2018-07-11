@@ -92,7 +92,10 @@ figcaption {
 .clearfix:after{
   content: ".";
   display: block;
-  clear: both
+  clear: both;
+  visibility: hidden;
+  height: 0px;
+  line-height: 0px;
 }
 [class*="col-"] {
   margin-left: 2%;
