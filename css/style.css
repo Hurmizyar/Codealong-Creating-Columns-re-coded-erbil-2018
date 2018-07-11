@@ -97,7 +97,9 @@ figcaption {
   height: 0px;
   line-height: 0px;
 }
-img ,video, audio
+img ,video, audio{
+  max-width: 100%
+}
 [class*="col-"] {
   margin-left: 2%;
 }
