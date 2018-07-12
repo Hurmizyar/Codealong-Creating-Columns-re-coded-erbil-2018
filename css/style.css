@@ -46,9 +46,7 @@ figcaption {
 
 /* ID selector (apply to one unique element per page) */
 
-#logo { /* select elements with id="logo" */
- 
-}
+
 
 /* Descendent Selector */
 
@@ -117,7 +115,7 @@ img ,video, audio{
 }
 footer{
   margin: auto;
-  z-index: -1;
+  margin-top: 90%;
 }
 #social{
   position: fixed;
