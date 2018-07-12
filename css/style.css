@@ -111,6 +111,7 @@ img ,video, audio{
 }
 footer{
   margin: auto;
+  z-index: -1;
 }
 #social{
   position: fixed;
