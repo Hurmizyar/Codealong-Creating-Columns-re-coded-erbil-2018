@@ -54,6 +54,7 @@ figcaption {
 
 #logo h1 { /* selects <h1> if inside the id="logo" */
   font-family: 'Clicker Script', cursive;
+  margin-top: 0;
 }
 
 #logo h2 {
