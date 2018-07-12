@@ -109,3 +109,6 @@ img ,video, audio{
 .clear{
   clear: both;
 }
+footer{
+  margin: auto;
+}
