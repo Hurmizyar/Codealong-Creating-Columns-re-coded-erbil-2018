@@ -113,5 +113,6 @@ footer{
   margin: auto;
 }
 #social{
-  padding:20px;
+  position: fixed;
+  
 }
